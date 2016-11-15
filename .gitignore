@@ -40,3 +40,4 @@ sysinfo.txt
 hs_err_pid*
 bin*
 logs*
+/Library/
